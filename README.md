@@ -114,7 +114,7 @@ SHANI-MD051/KA-SHANI-MD/fork)
 
 <br>
 
-`✠ HOW TO DEPLOY SILENT-SOBX-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
+`✠ HOW TO DEPLOY KA-SHANII-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
 
 -------------
 
@@ -157,11 +157,11 @@ SHANI-MD051/KA-SHANI-MD/fork)
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
-`✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+`✠ IF YOU WANT TO DEPLOY KA-SHANI-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER40/SILENT-SOBX-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Mrshaniii/SHANI_MD
 
 ----------
 
